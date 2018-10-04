@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="AllBoardsShop" version="4">
+  <OBJECT>
+    <ID name="AllBoardsShop" mc="Standard.Project" uid="7bcf2a2c-e50a-47ef-837a-545d89ecaaf2"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[AllBoardsShop]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="DiagramRoot">
+        <COMPID name="AllBoardsShop" mc="Standard.DiagramSet" uid="9a61f45d-4eba-4de3-b384-fc315ab04317"/>
+      </COMP>
+      <COMP relation="Model">
+        <COMPID name="allboardsshop" mc="Standard.Package" uid="291eac6d-905f-4c38-8e2c-4381741550d6"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

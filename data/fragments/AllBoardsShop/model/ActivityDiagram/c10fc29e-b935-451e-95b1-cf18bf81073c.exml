@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Activity Activity diagram" version="4">
+  <OBJECT>
+    <ID name="Activity Activity diagram" mc="Standard.ActivityDiagram" uid="c10fc29e-b935-451e-95b1-cf18bf81073c"/>
+    <PID name="Activity" mc="Standard.Activity" uid="e25b67db-31db-4dc5-a16d-2d972eac036e"/>
+    <ATTRIBUTES>
+      <ATT name="IsVertical">false</ATT>
+      <ATT name="UiDataVersion">8</ATT>
+      <ATT name="UiData"><![CDATA[eJztWVFT4jAQ/iudzr22NFIKjIgj4KhznDp458w9MWm7hWjaOGkQ++8vBVoRtQe0IOP0gSFsmt3s7vdtN6F1+uJT5Rl4SFhwoiLdUJXTduvGfgBHKMSVIlUR0ROcqIyPdJ+5QAnTXYJHHPs6uEQwrmNHkGciIh0o+BCIMJUkD174ZwtJby5RFR8/MD5MTRtqu3XL2RNwESkB9qVFiiM2ET0ssJy7x3QCi60EE0rVSrtVSRa8W3onIgrqG0eOshwJ4+dD3WEc9PnaNfbXxaGDXXATY+cvYgDemlaupYrFSgVeRM++knucDeOBCx6eULHiZGXuTpbjHCgW4Mp9rMTsVyxSnmPJibqSDMVBhuccNUGzm9WaZtYQaM2ajTTHQw3bayCjXnWyA05xKH4GbBr0sQ10xfad4CQYqe3ErJIOFpFpVWaPZzrGKFwFXeY/sZAImZJPbKyhqjsm1OUQa+iTULxBSXUruD9hLmabclggMAmAS8QvgnubzHWTuVzYH8id4mAUw2aRTGQax0fGsWXMPhvzwtw5L2JSzBlYwnnPcK7lg7NEcQrfXKi9CgSMYuQvMlbdAqjW9wFqGlTFq2Lk1etYaxiWJaEKltZ0kBOPsOlgCzdMswCopgYLhObdxN5EbRZM6zlhOgaZRr6M1suZZP9dRmNHnvx4J8mNcqtEeTEFOByz6ZA471R0mLSBgzQuHqYhZLs5U/UI0ZRxtwBtAjuPw1AAB/YfbYJP1tka/SD6m6si4b38RRy8haoUpUuka+Yknc3caBzZnLjL/VtHSi9n0mI6t63qCTL29tYr68GuGrLK4is/IT4i/WueCjOzJu/QdpcDh9leot1fEHxBf2l4liVPPJ5mGgZopoXrGm5YruY2Jf+aplkz6rUimYYOs8FEOc/1B9RhoswD+2G1mKhEetlkfpMmE+W9SznkLnN/dytlSSj7zLWodyjO9EnwGK4f4s6ox/FUprCPI0nltzTLvudKSoY7VxDqNFYR/5OwrHE/xWGzVV91TU9W318Je3oXev/s7/lg2Dnr/rwY3Py57hVDqDWq1XK2XoGzDIPsS8ISBsXD4PfNbdH5/3TqH2rlBms=]]></ATT>
+      <ATT name="PdeProperties"></ATT>
+      <ATT name="Name"><![CDATA[Activity Activity diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <REFOBJ>
+          <ID name="Partition1" mc="Standard.ActivityPartition" uid="0f66f81f-400e-46a7-a86d-d9f779445075"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Partition" mc="Standard.ActivityPartition" uid="f3a1f77a-8066-45e6-9c1c-45ea4ca6a844"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Standard.Note" uid="a3dfffa4-df8d-41a1-8aec-ee13e1c77e74"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Standard.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

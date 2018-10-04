@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="AllBoardsShop" version="4">
+  <OBJECT>
+    <ID name="AllBoardsShop" mc="Standard.AnalystProject" uid="1e822859-dd89-4120-8329-909c8b434cbe"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[AllBoardsShop]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="PropertyRoot">
+        <COMPID name="AllBoardsShop" mc="Standard.PropertyContainer" uid="fecb7a65-346f-4dfd-9864-196a2a1058ac"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
